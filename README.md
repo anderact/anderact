@@ -8,7 +8,7 @@
 ☁ Currently learning Neural Networks and Machine Learning<br>
 
 [![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderact&count_private=true&show_icons=true&theme=transparent)](https://github.com/anderact/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderact&show_icons=true&theme=transparent&layout=compact)](https://github.com/anderact/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderact&show_icons=true&theme=transparent&layout=compact&&count_private=true)](https://github.com/anderact/github-readme-stats)
 
 <p align="center">
   <a href="https://skillicons.dev">
