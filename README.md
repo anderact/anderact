@@ -7,8 +7,13 @@
 💻 Solid experience at web and cross-platform mobile app development<br>
 ☁ Currently learning Neural Networks and Machine Learning<br>
 
-[![Axel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderact&count_private=true&show_icons=true&theme=transparent)](https://github.com/anderact/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderact&show_icons=true&theme=transparent&layout=compact&&count_private=true)](https://github.com/anderact/github-readme-stats)
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats-dtq5.vercel.app/api?username=anderact&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats-dtq5.vercel.app/api/top-langs/?username=anderact&show_icons=true&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5" />
+</a>
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
