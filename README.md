@@ -11,7 +11,7 @@
   <img height=200 src="https://github-readme-stats-dtq5.vercel.app/api?username=anderact&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" />
 </a>
 <a href="">
-  <img height=200 src="https://github-readme-stats-dtq5.vercel.app/api/top-langs/?username=anderact&show_icons=true&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img height=200 src="https://github-readme-stats-dtq5.vercel.app/api/top-langs/?username=anderact&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5" />
 </a>
 <hr>
 
