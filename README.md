@@ -3,7 +3,7 @@
 ### Hi, I'm Axel~
 
 🖥 Software developer<br>
-🏫 Graduated from Software Design and Development at [TECSUP](https://www.tecsup.edu.pe/)<br>
+🏫 Bachiller Software Design and Development at [TECSUP](https://www.tecsup.edu.pe/)<br>
 💻 Solid experience at web and cross-platform mobile app development<br>
 ☁ Currently learning Neural Networks and Machine Learning<br>
 
