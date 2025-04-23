@@ -5,7 +5,6 @@
 🖥 Software developer<br>
 🏫 Bachiller Software Design and Development at [TECSUP](https://www.tecsup.edu.pe/)<br>
 💻 Solid experience at web and cross-platform mobile app development<br>
-☁ Currently learning Neural Networks and Machine Learning<br>
 
 <a href="">
   <img height=175 align="center" src="https://github-readme-stats-dtq5.vercel.app/api?username=anderact&count_private=true&show_icons=true&theme=transparent&include_all_commits=true" />
